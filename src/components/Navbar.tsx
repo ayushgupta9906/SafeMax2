@@ -9,7 +9,7 @@ const Navbar = () => {
         <div className="flex justify-between h-16">
           <div className="flex items-center">
             <Link to="/" className="flex items-center space-x-2">
-            <img src="src\assests\sm.png" alt="Shield" className="h-16 w-16" />
+            <img src="https://github.com/ayushgupta9906/SafeMax2/blob/main/src/assests/sm.png" alt="Shield" className="h-16 w-16" />
 
               <span className="text-2xl font-bold text-gray-900">SafeMax Security</span>
             </Link>
