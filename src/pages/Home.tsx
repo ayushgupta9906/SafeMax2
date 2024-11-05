@@ -21,7 +21,7 @@ const Home = () => {
               </div>
               <div className="relative">
                 <img
-                  src="src/assests/sm.png"
+                  src="https://github.com/ayushgupta9906/SafeMax2/blob/main/src/assests/sm.png"
                   alt="SafeMax Logo"
                   style={{
                     width: '150px', // Adjust size as needed
